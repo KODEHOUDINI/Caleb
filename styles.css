@@ -1,0 +1,57 @@
+body {
+  background-image: url("BG-layered-peaks.svg") !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: aliceblue;
+  overflow-x: hidden;
+  /* background-attachment: fixed; */
+}
+h1 {
+  font-family: "Righteous";
+  color: #cc005f;
+}
+h3 {
+  color: #cc005f;
+}
+hr {
+  border-style: none;
+  border-color: grey;
+  width: 5%;
+  border-top-style: dotted;
+  border-width: 60px;
+}
+.ProfilePicture {
+  border-radius: 120px;
+  width: 120px;
+}
+.hobbyHeader:hover {
+  color: gold;
+}
+
+.est {
+  background-color: black;
+}
+
+h2 {
+  color: #841b2d;
+}
+img.instaLogo {
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+}
+img.ttLogo {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}
+img.gitLogo {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}
+img.LinkedInLogo {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}
